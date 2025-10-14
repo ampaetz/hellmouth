@@ -1,5 +1,5 @@
 body {
-    background-color: #ffdb01;
+    background-color: #000000;
     text-align: center;
     font-family: monospace;
 }
@@ -11,7 +11,11 @@ h1 {
 }
 
 .explore {
-    color: ##a70c1d;
+    color: #7c819e;
     font-family: "Herculanum LT W04 Bold";
 }
 
+.quote {
+    color: #7c819e;
+    font-family: "Herculanum LT W04 Bold";
+}

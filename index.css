@@ -5,9 +5,13 @@ body {
 }
 
 h1 {
-    background-color: #000000;
-    color: ##a70c1d;
+    background-color: #7c819e;
+    /*color: #a70c1d;*/
     text-align: center;
+    font-family: "Herculanum LT W04 Bold";
+    font-size: 5em;
+    width: 50%;
+    margin: 0 auto;
 }
 
 .explore {

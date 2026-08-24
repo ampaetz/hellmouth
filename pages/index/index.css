@@ -1,12 +1,13 @@
 body {
-    background-color: #000000;
+    background-image: url("/media/photos/gryd025.jpg");
     text-align: center;
-    font-family: monospace;
+    font-family: Herculanum LT W04 Bold;
 }
 
 h1 {
-    background-color: #7c819e;
-    /*color: #a70c1d;*/
+    /*background-color: #7c819e;
+    color: #a70c1d;*/
+    color: #7c819e;
     text-align: center;
     font-family: "Herculanum LT W04 Bold";
     font-size: 5em;
@@ -22,4 +23,9 @@ h1 {
 .quote {
     color: #7c819e;
     font-family: "Herculanum LT W04 Bold";
+}
+
+img {
+    width: 20%;
+    height: auto;
 }

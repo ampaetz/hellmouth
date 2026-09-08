@@ -25,6 +25,15 @@ h1 {
     font-family: "Herculanum LT W04 Bold";
 }
 
+table {
+    border-color: darkgray;
+    border-top-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    float: left;
+}
+
 img {
     width: 20%;
     height: auto;

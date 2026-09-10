@@ -1,7 +1,7 @@
 body {
     background-image: url("/media/photos/gryd025.jpg");
     text-align: center;
-    font-family: Herculanum LT W04 Bold;
+    font-family: Herculanum LT W04 Bold, sans-serif;
 }
 
 h1 {

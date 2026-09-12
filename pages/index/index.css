@@ -5,8 +5,8 @@ body {
 }
 
 h1 {
-    /*background-color: #7c819e;
-    color: #a70c1d;*/
+    /*background-color: #7c819e;*/
+    color: #a70c1d;
     color: #7c819e;
     text-align: center;
     font-family: "Herculanum LT W04 Bold";
@@ -37,4 +37,10 @@ table {
 img {
     width: 20%;
     height: auto;
+}
+
+.container {
+  background-image: url('/media/photos/season1promo.webp');
+  /*background-color: #7c819e;
+  background-blend-mode: screen;*/
 }
